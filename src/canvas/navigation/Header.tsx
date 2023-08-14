@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { UniformSlot, ComponentProps, registerUniformComponent } from '@uniformdev/canvas-react';
 import { ScreenContainer } from '@/components/Container';
-import logosvg from './public/logo.svg';
+import logosvg from '../../../public/brunnerworks.png';
 
 type HeaderProps = ComponentProps<{
   logo: string | Types.CloudinaryImage;
