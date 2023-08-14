@@ -62,7 +62,7 @@ const Header: FC<HeaderProps> = ({ logo, component, linksAlignment }) => (
             </ul>
           </div>
           <Link className="ml-8 lg:ml-0" href="/">
-          <Image src={logosvg ?? logo} width={188} height={41} alt="Brunner" />
+            <Image src={logosvg ?? logo} width={188} height={41} alt="Brunner" />
           </Link>
           <div className={classNames('hidden lg:flex w-full', getLinksAlignment(linksAlignment))}>
             <ul className="menu menu-horizontal px-1 shrink-0">
