@@ -15,7 +15,7 @@ const Footer: FC<FooterProps> = ({ logo, copyright }) => {
     <ScreenContainer>
       <footer className="footer py-10 flex flex-col-reverse md:flex-row justify-between border-t-[1px] border-info-content w-full">
         <div className="w-full md:w-1/2">
-          <Image src={logosvg} width={188} height={41} alt="Brunner" />
+          <Image src={logosvg ?? logo} width={188} height={41} alt="Brunner" />
           <div
             className="footer-content text-secondary-content"
             dangerouslySetInnerHTML={{ __html: `2023 ${copyright}` }}
