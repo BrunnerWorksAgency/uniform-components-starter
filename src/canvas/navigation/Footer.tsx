@@ -2,7 +2,7 @@ import { FC } from 'react';
 import Image from 'next/image';
 import { UniformSlot, ComponentProps, registerUniformComponent, UniformRichText } from '@uniformdev/canvas-react';
 import { ScreenContainer } from '@/components/Container';
-import logosvg from '@/public/logo.svg';
+import logosvg from './public/logo.svg';
 
 type FooterProps = ComponentProps<{
   logo: string | Types.CloudinaryImage;
