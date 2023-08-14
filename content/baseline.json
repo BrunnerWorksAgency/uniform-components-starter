@@ -3623,7 +3623,7 @@
                       "link": {
                         "type": "link",
                         "value": {
-                          "path": "https://github.com/uniformdev/uniform-component-starter-kit",
+                          "path": "https://github.com/BrunnerWorksAgency/uniform-components-starter",
                           "type": "url"
                         }
                       }
@@ -4312,7 +4312,7 @@
                       "link": {
                         "type": "link",
                         "value": {
-                          "path": "https://github.com/uniformdev/uniform-component-starter-kit",
+                          "path": "https://github.com/BrunnerWorksAgency/uniform-components-starter",
                           "type": "url"
                         }
                       }
@@ -12750,7 +12750,7 @@
                             "link": {
                               "type": "link",
                               "value": {
-                                "path": "https://github.com/uniformdev/uniform-component-starter-kit",
+                                "path": "https://github.com/BrunnerWorksAgency/uniform-components-starter",
                                 "type": "url"
                               }
                             }
