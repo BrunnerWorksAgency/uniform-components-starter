@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { UniformSlot, ComponentProps, registerUniformComponent } from '@uniformdev/canvas-react';
 import { ScreenContainer } from '@/components/Container';
-import { getImageUrl } from '@/utils';
+import { logosvg } from '@/public/logo.svg';
 
 type HeaderProps = ComponentProps<{
   logo: string | Types.CloudinaryImage;
@@ -62,7 +62,7 @@ const Header: FC<HeaderProps> = ({ logo, component, linksAlignment }) => (
             </ul>
           </div>
           <Link className="ml-8 lg:ml-0" href="/">
-            <Image src={getImageUrl(logo)} width="270" height="43" alt="Uniform" />
+          <Image src={logosvg} width={188} height={41} alt="Brunner" />
           </Link>
           <div className={classNames('hidden lg:flex w-full', getLinksAlignment(linksAlignment))}>
             <ul className="menu menu-horizontal px-1 shrink-0">

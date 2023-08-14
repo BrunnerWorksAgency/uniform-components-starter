@@ -3510,7 +3510,7 @@
                 }
               ],
               "themeName": "uniform",
-              "themeLabel": "Uniform"
+              "themeLabel": "Brunner"
             }
           },
           "favicon": {
@@ -3638,7 +3638,7 @@
                 },
                 "copyright": {
                   "type": "text",
-                  "value": "Uniform Systems, Inc. All rights reserved."
+                  "value": "Brunner's Systems, Inc. All rights reserved."
                 },
                 "footerText": {
                   "type": "richText",
@@ -3676,7 +3676,7 @@
                               "children": [
                                 {
                                   "mode": "normal",
-                                  "text": "Uniform",
+                                  "text": "Brunner",
                                   "type": "text",
                                   "style": "",
                                   "detail": 0,
@@ -6065,7 +6065,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6099,7 +6099,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6125,7 +6125,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6223,7 +6223,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6257,7 +6257,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6295,7 +6295,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6401,7 +6401,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6435,7 +6435,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -6469,7 +6469,7 @@
                           "parameters": {
                             "alt": {
                               "type": "text",
-                              "value": "Uniform CSK"
+                              "value": "Brunner's CSK"
                             },
                             "src": {
                               "type": "image",
@@ -9437,7 +9437,7 @@
         "parameters": {
           "pageTitle": {
             "type": "text",
-            "value": "Uniform’s Component Starter Kit"
+            "value": "Brunner's’s Component Starter Kit"
           },
           "twitterCard": {
             "type": "select",
@@ -9465,7 +9465,7 @@
           },
           "openGraphTitle": {
             "type": "text",
-            "value": "Uniform // Component Starter Kit"
+            "value": "Brunner's // Component Starter Kit"
           },
           "twitterDescription": {
             "type": "text",
@@ -9493,7 +9493,7 @@
                 },
                 "title": {
                   "type": "text",
-                  "value": "Uniform’s Component Starter Kit"
+                  "value": "Brunner's’s Component Starter Kit"
                 },
                 "titleStyle": {
                   "type": "tp-title-style-parameter",
@@ -10053,7 +10053,7 @@
           },
           "openGraphTitle": {
             "type": "text",
-            "value": "Uniform Components"
+            "value": "Brunner's Components"
           },
           "pageMetaDescription": {
             "type": "text",
